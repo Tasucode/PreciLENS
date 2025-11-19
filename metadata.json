@@ -1,0 +1,5 @@
+{
+  "name": "LensTranslate",
+  "description": "A visual translation tool featuring a magic comparison slider to reveal translated text within the original layout.",
+  "requestFramePermissions": []
+}
